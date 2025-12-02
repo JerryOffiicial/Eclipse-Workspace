@@ -12,7 +12,6 @@ public class ThreadRunnable {
 		Thread t1 = new Thread(obj);
 		
 		t1.start();
-
 	}
 
 }
